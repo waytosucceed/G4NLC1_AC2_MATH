@@ -1,0 +1,92 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Jack finds a stone tablet with a number built using blocks. What number does he see?<br><img width='65%' src='./question/1.png'>",
+    "options": ["2035", "235", "236", "2305"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Jack discovers a puzzle where the number 464 is represented with blocks. Which one is it?",
+    "options": ["1.png", "2.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "A magical door displays the number 602 using blocks. Can you identify it for her?",
+    "options": ["3.png", "4.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Jack finds a puzzle and he needs to identify which number it represents.<br><img width='65%' src='./question/5.png'>",
+    "options": ["1124", "1234", "1434", "1324"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "The Crystal Gate displays a number using blocks. What number should Jack enter?<br><img width='65%' src='./question/2.png'>",
+    "options": ["2563", "2674", "2574", "2647"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q6",
+    "question": "As Jack ventures deeper, he comes across a model. Can you figure out which number does this model represent?<br><img width='65%' src='./question/3.png'>",
+    "options": ["3546", "2546", "2647", "3557"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Can you help her decode which number is shown here?<br><img width='65%' src='./question/4.png'>",
+    "options": ["3735", "3835", "3835", "3736"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Jack finds a number represented as 449. Which place value blocks represent this number?",
+    "options": ["5.png", "6.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Jack finds an ancient scroll with the number 345,678 written on it. What is the place value of the digit 4?",
+    "options": ["4 thousands", "4 hundred thousands", "4 ten thousands", "4 millions"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Jack sees a stone tablet with the number 59,876. What is the place value of the digit 5?",
+    "options": ["5 ten thousands", "5 hundreds", "5 thousands", "5 hundred thousands"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q11",
+    "question": "Jack finds a puzzle with the number 789,654. What is the place value of the digit 6?",
+    "options": ["6 ten thousands", "6 tens", "6 thousands", "6 hundreds"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q12",
+    "question": "Jack finds a riddle that asks him to place commas in the number 678901 correctly. Which is the correct way?",
+    "options": ["678,901", "67,890,1", "67,89,01", "6,789,01"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q13",
+    "question": "A magical door will open only if Jack enters the number with commas correctly. How should he write 12345?",
+    "options": ["1,2345", "123,45", "12,345", "1,23,45"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "The jungle spirits challenge Jack with a number riddle: “What is the place value of the digit 5 in number 765,432?",
+    "options": ["5", "50", "500", "5000"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q15",
+    "question": "The magical vines show the number 987,654. 'What is the place value of the digit 6 in this number?'",
+    "options": ["1", "2", "5", "600"],
+    "correct": 3
+  }
+]
