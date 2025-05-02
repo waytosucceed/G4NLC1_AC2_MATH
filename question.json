@@ -20,7 +20,7 @@
   {
     "questionNo": "Q4",
     "question": "Jack finds a puzzle and he needs to identify which number it represents.<br><img width='65%' src='./question/5.png'>",
-    "options": ["1124", "1234", "1434", "1324"],
+    "options": ["3313", "3133", "3331", "1333"],
     "correct": 3
   },
   {
